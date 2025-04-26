@@ -154,5 +154,10 @@ Tempestade (Storm)	Indestrutível / Indestructible
 Desenvolvedor / Developer: Leandro Heleno (24004)
 Engine: Construct 3
  
-  
+![Ambiente de Jogo](Screenshot_2.jpg)  
+![Ambiente de Game Over e Ranking](Screenshot_1.png)
+![Ambiente desenvolvimento](jogo.png)
+![Ambiente de Banco de dados](bd.png)
+![Ambiente de Regras](regras.png)
+
   
